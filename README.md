@@ -13,11 +13,6 @@ The Text Summarization Model has versatile applications:
 3. **Business**: Summarize reports, emails, or meeting notes for efficient decision-making.  
 4. **Content Curation**: Assist in generating summaries for blogs, newsletters, or social media posts.  
 
-## How It Benefits Businesses  
-- **Time-Saving**: Reduces the time spent reading lengthy texts.  
-- **Improved Productivity**: Enables employees to focus on critical information.  
-- **Enhanced User Experience**: Simplifies information access for users on content platforms.  
-
 
 ## Contributions  
 Contributions are welcome! Feel free to fork the repository, propose enhancements, or report issues.  
