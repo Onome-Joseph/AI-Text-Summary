@@ -63,6 +63,7 @@ This repository also contains a Flask-based web application for summarizing text
 ├── summary_app.py                  # Flask application
 ├── templates/
 │   └── index.html          # Frontend HTML template
+```
 
 ## Contributions  
 Contributions are welcome! Feel free to fork the repository, propose enhancements, or report issues.
